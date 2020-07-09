@@ -1,5 +1,3 @@
-<img alt="Chris working on his MacBook Pro at a farmers table" height="684" width="1140" src="https://gomakethings.com/img/chris-ferdinandi-2.jpg">
-
 # Hi, I’m Chris Ferdinandi.
 
 **I help people learn vanilla JavaScript.** I believe there's a simpler, more resilient way to make things for the web.
