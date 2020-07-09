@@ -9,3 +9,9 @@ I've taught developers at organizations like Chobani and the Boston Globe, and m
 My ideas on building a simpler, faster world-wide web have been featured in *Net Magazine*. Chris Coyier, the founder of CSS-Tricks and CodePen, has described my writing as "infinitely quote-worthy."
 
 I love pirates, puppies, and Pixar movies, and live near horse farms in rural Massachusetts.
+
+## Get Daily Developer Tips
+
+I send out a short email each weekday with code snippets, tools, techniques, and interesting stuff from around the web. 
+
+**[Join thousands of daily subscribers.](https://gomakethings.com)**
