@@ -14,4 +14,4 @@ I love pirates, puppies, and Pixar movies, and live near horse farms in rural Ma
 
 I send out a short email each weekday with code snippets, tools, techniques, and interesting stuff from around the web. 
 
-**[Join thousands of daily subscribers.](https://gomakethings.com)**
+**[Join thousands of daily subscribers &rarr;](https://gomakethings.com)**
