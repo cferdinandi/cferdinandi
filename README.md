@@ -1,16 +1,13 @@
-### Hi there 👋
+<img alt="Chris working on his MacBook Pro at a farmers table" height="684" width="1140" src="https://gomakethings.com/img/chris-ferdinandi-2.jpg">
 
-<!--
-**cferdinandi/cferdinandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I’m Chris Ferdinandi.
 
-Here are some ideas to get you started:
+**I help people learn vanilla JavaScript.** I believe there's a simpler, more resilient way to make things for the web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm the author of the [Vanilla JS Pocket Guide](https://vanillajsguides.com) series, creator of the [Vanilla JS Academy](https://vanillajsacademy.com) training program, and host of the [Vanilla JS Podcast](https://vanillajspodcast.com). My [developer tips newsletter](/articles) is read by thousands of developers each weekday.
+
+I've taught developers at organizations like Chobani and the Boston Globe, and my JavaScript plugins have been used by organizations like Apple and Harvard Business&nbsp;School.
+
+My ideas on building a simpler, faster world-wide web have been featured in *Net Magazine*. Chris Coyier, the founder of CSS-Tricks and CodePen, has described my writing as "infinitely quote-worthy."
+
+I love pirates, puppies, and Pixar movies, and live near horse farms in rural Massachusetts.
